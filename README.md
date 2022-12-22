@@ -6,7 +6,7 @@ A web application that randomly generates a password that meets certain criteria
 
 ## Installation
 
-NA
+Access live site here: https://amirtahsini.github.io/UCLA_assignment2/
 
 ## Usage
 
